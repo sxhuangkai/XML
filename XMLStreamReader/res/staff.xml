@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Department Name="漠野软件" No="A000">
+	<Employee EName="Steven" CName="张文" No="1001" Sex="男"/>
+	<Department Name="人力资源部" No="A001">
+		<Employee EName="Grace" CName="张利敏" No="1113" Sex="女"/>
+		<Employee EName="Happy" CName="鲍慧琴" No="1109" Sex="女"/>
+	</Department>
+	<Department Name="研发中心" No="A002">
+		<Employee EName="Chavy" CName="刘昌辉" No="1027" Sex="男"/>
+		<Employee EName="Lison" CName="李五跃" No="1016" Sex="男"/>
+		<Department Name="基础模块组" No="A002001">
+			<Employee EName="Andy" CName="杨典国" No="1083" Sex="男"/>
+			<Employee EName="benjiamen" CName="陈海生" No="1053" Sex="男"/>
+			<Employee EName="richard" CName="李长军" No="1138" Sex="男"/>
+			<Employee EName="jacky" CName="姚永杰" No="1136" Sex="男"/>
+		</Department>
+		<Department Name="产品研发一组" No="A002002">
+			<Employee EName="Hebel" CName="何忠炎" No="1101" Sex="男"/>
+			<Employee EName="Jackson" CName="陈玉国" No="1050" Sex="男"/>
+			<Employee EName="Jason" CName="张郑" No="1092" Sex="男"/>
+			<Employee EName="leez" CName="朱荣基" No="1143" Sex="男"/>
+			<Employee EName="Relun" CName="容合朝" No="1087" Sex="男"/>
+			<Employee EName="Wylove" CName="童杰" No="1065" Sex="男"/>
+			<Employee EName="xiaobo" CName="王枭波" No="1154" Sex="男"/>
+		</Department>
+		<Department Name="产品研发二组" No="A002003">
+			<Employee EName="jack.wang" CName="王振" No="1144" Sex="男"/>
+			<Employee EName="peter" CName="陈刚" No="1120" Sex="男"/>
+			<Employee EName="Tobin" CName="陈其锋" No="1115" Sex="男"/>
+			<Employee EName="Haffon" CName="李海峰" No="1104" Sex="男"/>
+		</Department>
+		<Department Name="产品研发三组" No="A002004">
+			<Employee EName="Wade" CName="张文杰" No="1067" Sex="男"/>
+		</Department>
+		<Department Name="Web组" No="A002005">
+			<Employee EName="Yuan" CName="冯超" No="1082" Sex="男"/>
+		</Department>
+		<Department Name="研发管理" No="A002006">
+			<Employee EName="Shawn" CName="孟凡娥" No="1025" Sex="女"/>
+		</Department>
+		<Department Name="测试支持组" No="A002007">
+			<Employee EName="Amo" CName="刘兴侣" No="1139" Sex="女"/>
+			<Employee EName="winkly" CName="李黎明" No="1150" Sex="男"/>
+			<Employee EName="Laura" CName="张春兰" No="1091" Sex="女"/>
+			<Employee EName="tom.lee" CName="李郁奇" No="1127" Sex="男"/>
+		</Department>
+	</Department>
+	<Department Name="市场部" No="A003">
+		<Employee EName="Sophia" CName="梁静" No="1044" Sex="女"/>
+		<Department Name="英文营销组" No="A003001">
+			<Employee EName="Cilla" CName="周丽梅" No="1021" Sex="女"/>
+			<Department Name="leawo品牌组" No="A003001001">
+				<Employee EName="ada" CName="余盈" No="1147" Sex="女"/>
+				<Employee EName="allen.lo" CName="罗志强" No="1129" Sex="女"/>
+				<Employee EName="Bruce" CName="王秦" No="1103" Sex="男"/>
+				<Employee EName="chester" CName="梁栋" No="1146" Sex="男"/>
+				<Employee EName="Davy" CName="曾铁祥" No="1114" Sex="男"/>
+				<Employee EName="Irene" CName="黄爱" No="1110" Sex="女"/>
+				<Employee EName="mira.wen" CName="温秋艳" No="1149" Sex="女"/>
+				<Employee EName="Jimmy" CName="杨荷" No="1080" Sex="男"/>
+			</Department>
+			<Department Name="Moyea品牌组" No="A003001002">
+				<Employee EName="Aiko" CName="王婷婷" No="1126" Sex="女"/>
+				<Employee EName="cici" CName="刘肖俊" No="1153" Sex="女"/>
+				<Employee EName="dupont" CName="邹义" No="1123" Sex="男"/>
+				<Employee EName="Dwight" CName="蒋攀峰" No="1079" Sex="男"/>
+			</Department>
+			<Department Name="新产品导入" No="A003001003">
+				<Employee EName="Alex" CName="叶君丹" No="1073" Sex="男"/>
+			</Department>
+			<Department Name="Moyea品牌组" No="A003001002">
+				<Employee EName="kerry" CName="曾恺" No="1093" Sex="男"/>
+				<Employee EName="Toby" CName="杨春林" No="1077" Sex="男"/>
+				<Employee EName="stephen" CName="王超坤" No="1052" Sex="男"/>
+			</Department>
+		</Department>
+		<Department Name="客服组" No="A003002">
+			<Employee EName="Annie" CName="吴长江" No="1090" Sex="女"/>
+			<Employee EName="Leakey" CName="廖曼" No="1047" Sex="女"/>
+		</Department>
+		<Department Name="中文营销组" No="A003003">
+			<Employee EName="LanDon" CName="谢时贵" No="1069" Sex="男"/>
+			<Department Name="推广" No="A003003001">
+				<Employee EName="april" CName="李敏敏" No="1151" Sex="女"/>
+				<Employee EName="liberty" CName="肖红" No="1152" Sex="男"/>
+				<Employee EName="Lucia" CName="黄宁宁" No="1098" Sex="男"/>
+			</Department>
+		</Department>
+		<Department Name="基础营销组" No="A003004">
+			<Employee EName="Jojo" CName="王东娣" No="1045" Sex="女"/>
+			<Department Name="外链建设" No="A003004001">
+				<Employee EName="jane" CName="黄小琴" No="1119" Sex="女"/>
+				<Employee EName="lisa" CName="肖丽君" No="1085" Sex="男"/>
+			</Department>
+			<Department Name="博客建设" No="A003004002">
+				<Employee EName="lucy" CName="黄梅" No="1112" Sex="女"/>
+			</Department>
+			<Department Name="文档专员" No="A003004003">
+				<Employee EName="elaine" CName="杨晶" No="1133" Sex="女"/>
+				<Employee EName="mandy" CName="孟江" No="1130" Sex="女"/>
+				<Employee EName="shirley.mou" CName="牟小丽" No="1131" Sex="女"/>
+				<Employee EName="zoey" CName="王妮" No="1140" Sex="女"/>
+			</Department>
+		</Department>
+		<Department Name="设计组" No="A003004">
+			<Employee EName="Ryan" CName="雷洪恩" No="1089" Sex="男"/>
+			<Employee EName="yong.he" CName="何勇" No="1132" Sex="男"/>
+		</Department>
+		<Department Name="欧洲营销组" No="A003005">
+			<Employee EName="bennie" CName="邓淼" No="1128" Sex="男"/>
+		</Department>
+		<Department Name="日本营销组" No="A003006">
+			<Employee EName="Waterlily" CName="何晶" No="1118" Sex="女"/>
+		</Department>
+	</Department>
+	<Department Name="运维部" No="A004">
+		<Employee EName="jock" CName="黎超柳" No="1134" Sex="男"/>
+		<Employee EName="Jony" CName="刘宗伟" No="1071" Sex="男"/>
+	</Department>
+	<Department Name="财务部" No="A005">
+		<Employee EName="Cher" CName="罗玲" No="1086" Sex="女"/>
+	</Department>
+</Department>
